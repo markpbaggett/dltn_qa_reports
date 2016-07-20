@@ -5,7 +5,6 @@
 
 ## Schema Overview
 
-
 | key                                    | types                      | occurrences | percents             |
 | -------------------------------------- | -------------------------- | ----------- | -------------------- |
 | _id                                    | ObjectId                   |        6366 | 100.0000000000000000 |
@@ -31,3 +30,12 @@
 | metadata.oai_dc:dc.dc:creator          | String                     |        1387 |  21.7876217404963874 |
 | metadata.oai_dc:dc.dc:publisher        | String (756),Array (9)     |         765 |  12.0169651272384534 |
 | metadata.oai_dc:dc.dc:contributor      | String                     |          12 |   0.1885014137606032 |
+
+## Distinct Rights Values
+
+1. While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law.  Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use.
+2. While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees that may be necessary for the intended use.
+3. Digital image © 2008, Tennessee State Library & Archives.  All rights reserved.
+4. While TSLA houses an item, it does not necessarily hold the copyright on the item, nor may it be able to determine if the item is still protected under current copyright law. Users are solely responsible for determining the existence of such instances and for obtaining any other permissions and paying associated fees, that may be necessary for the intended use.
+5. Digital image copyright © 2014, Tennessee State Library and Archives. All rights reserved.
+6. Digital image copyright©2014, Tennessee State Library and Archives. All rights reserved.

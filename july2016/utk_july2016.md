@@ -219,3 +219,21 @@
 | metadata.mods.subject.XX.hierarchicalGeographic.province              | null                                  |           1 |   0.011749500646222535 |
 | metadata.mods.subject.XX.hierarchicalGeographic.region                | null                                  |           1 |   0.011749500646222535 |
 | metadata.mods.titleInfo.subTitle                                      | null                                  |           1 |   0.011749500646222535 |
+
+## Distinct Rights Values
+
+1. {'#text': 'The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.', '@type': 'use and reproduction'}
+2. Images in the collection are protected by copyright. Contact smokies@utk.edu for permission to reproduce images from the collection.
+3. {'#text': 'The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.', '@type': 'use and reproduction'}
+4. {'#text': 'Public Domain.', '@type': 'use and reproduction'}
+5. {'#text': 'May be protected by copyright. For more information, contact Special Collections at special@utk.edu.', '@type': 'use and reproduction'}
+6. {'#text': 'Photograph © Alan S. Heilman; Digital Image © 2011 The University of Tennessee Libraries. Creative Commons License Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) with attribution as follows: [Photograph title and item number], The Botanical Photography of Alan S. Heilman, © Alan S. Heilman, © The University of Tennessee Libraries, 2011.', '@type': 'use and reproduction'}
+7. {'#text': 'Public domain.', '@type': 'use and reproduction'}
+8. The copyright interests for this photograph remain with the creator. For more information, contact Special Collections at special@utk.edu.
+9. Public domain.
+10. No known copyright restrictions.
+11. Nashville Public Library, Special Collections owns copyright of this image. Contact  library.nashville.org for terms of use.
+12. The copyright interests for Knoxville Journal materials remain with the East Tennessee Historical Society. For more information, contact Special Collections at special@utk.edu.
+13. The copyright interests for this photograph remain with the creator, Michael O'Brien. For more information, contact Special Collections at special@utk.edu.
+14. {'#text': 'Public domain.', '@type': 'use and reproduction'}
+15. The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.

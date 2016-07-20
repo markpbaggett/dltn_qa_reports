@@ -31,3 +31,13 @@
 | record_id                              | String                    |        3141 | 100.000000000000000 |
 | metadata.oai_dc:dc.dc:creator          | String                    |        3078 |  97.994269340974213 |
 | metadata.oai_dc:dc.dc:contributor      | String                    |         199 |   6.335561922954473 |
+
+## Distinct Rights Values
+
+1. In the public domain and may be used without copyright restriction.
+2. pub
+3. Under copyright.
+4. cpr
+5. Copyright status of the resource is unknown.
+6. unk
+7. In the public domain and may used without copyright restriction.

@@ -27,3 +27,10 @@
 | metadata.oai_dc:dc.dc:source           | String                     |        6169 |  99.80585665749879 |
 | metadata.oai_dc:dc.dc:creator          | String                     |        6096 |  98.62481799061641 |
 | metadata.oai_dc:dc.dc:relation         | String                     |        2587 |  41.85406892088659 |
+
+## Distinct Rights Values
+
+1. To use photographs or to order reproductions, contact DigitalCollections@knoxlib.org or phone 865 215-8808. Please refer to Image Number and provide a brief description of the photograph.
+2. To use photographs or to order reproductions, contact scotham@knoxlib.org or phone 865 215-8808.  Please refer to Image Number and provide a brief description of the photograph.
+3. To use photographs or to order reproductions, contact DigitalCollections@knoxlib.org or phone 865 215-8808. Please refer to Image Number if available and provide a brief description of the photograph.
+4. For information about reproducing this material, contact DigitalCollections@knoxlib.org or phone 865 215-8808.
